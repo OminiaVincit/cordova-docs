@@ -1,3 +1,4 @@
+# Test for git
 # Contributing to Apache Cordova
 
 Anyone can contribute to Cordova. And we need your contributions.
